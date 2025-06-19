@@ -16,6 +16,7 @@
             --note-bg: #1e3a5f;
             --note-border: #2196f3;
         }
+        
 
         body {
             font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
